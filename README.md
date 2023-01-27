@@ -10,4 +10,3 @@ Here are my main programming goals and ideas:
 - 👯 I’m looking to collaborate on Blockchain projects
 - 📫 How to reach me: mihailo.rudenko.main@gmail.com, telegram - @booklake
 - ⚡ Fun fact: one time when I wrote was writing code 3 hours blindly, and then ran it - it was successfull, without errors.
-
