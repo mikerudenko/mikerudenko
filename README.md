@@ -4,7 +4,7 @@ I am an experienced Full-Stack Lead developer with 8 years of experience. I had 
 Here are my main programming goals and ideas:
 - 🔭 I’m currently working on OpenTag
 - 🎥 I have youtube [channel](https://www.youtube.com/channel/UCM2b6P4S1jzY7QX5pRlfZlg) and sharing my knowledge
-- 💪 On one of my projects wrote a Storybook UI Kit with 120+ components
+- 💪 On one of my projects I wrote a Storybook UI Kit with 120+ components
 - 🌱 To be a result-oriented person - this is my philosophy!
 - 🐴 I really like to improve app performance 
 - 👯 I’m looking to collaborate on Blockchain projects
