@@ -1,6 +1,6 @@
 ### Hi folks 👋
 
-I am an experienced Full-Stack Lead developer with 8 years of experience. I had a lot of projects in different business domains - devops, blockchain, data visualisation, betting, medical industry, e-commerce. I an fun of React, NodeJS, and Typescript. Also I have leadership experience. 
+I am an experienced Full-Stack Lead developer with 10 years of experience. I had a lot of projects in different business domains - devops, blockchain, data visualisation, betting, medical industry, e-commerce. I an fun of React, NodeJS, and Typescript. Also I have leadership experience. 
 Here are my main programming goals and ideas:
 - 🔭 I’m currently working on OpenTag
 - 🎥 I have youtube [channel](https://www.youtube.com/channel/UCM2b6P4S1jzY7QX5pRlfZlg) and sharing my knowledge
