@@ -1,10 +1,9 @@
 ### Hi folks 👋
-
-I am an experienced Full-Stack Lead developer with 10 years of experience. I had a lot of projects in different business domains - devops, blockchain, data visualisation, betting, medical industry, e-commerce. I an fun of React, NodeJS, and Typescript. Also I have leadership experience. 
+I am Passionate and experienced Lead Software Engineer specializing in blockchain development and web3 technologies. Blockchain Developer in a missions to revolutionise the financial system. Committed to staying at the forefront of blockchain innovation and leveraging emerging technologies to drive impactful solutions.
 Here are my main programming goals and ideas:
-- 🔭 I’m currently working on OpenTag
+- 🔭 I’m currently working on TopTal
 - 🎥 I have youtube [channel](https://www.youtube.com/channel/UCM2b6P4S1jzY7QX5pRlfZlg) and sharing my knowledge
-- 💪 On one of my projects I wrote a Storybook UI Kit with 120+ components
+- 💪 On one of my projects I wrote a Storybook UI Kit with 120+ components and migrated 1Gb of codebase from Next v11 to v14
 - 🌱 To be a result-oriented person - this is my philosophy!
 - 🐴 I really like to improve app performance 
 - 👯 I’m looking to collaborate on Blockchain projects
